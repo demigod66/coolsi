@@ -1,0 +1,6 @@
+{
+  "name": "Kotlin Notes",
+  "description": "A polished native Android notes application built with Kotlin and Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
